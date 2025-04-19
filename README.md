@@ -1,1 +1,1 @@
-# repository-1
+This is a repository for software development lesson.
